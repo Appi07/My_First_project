@@ -1,6 +1,7 @@
 print("program started")
 
 print("welcome to git")
+print("hi ")
 
 p1=input("")
 x=5;
